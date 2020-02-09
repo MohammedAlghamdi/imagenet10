@@ -1,0 +1,10 @@
+0	baboon
+1	banana
+2	canoe
+3	cat
+4	desk
+5	drill
+6	dumbbell
+7	football
+8	mug
+9	orange
